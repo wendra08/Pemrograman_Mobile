@@ -94,7 +94,7 @@ class _MainPageState extends State<MainPage> {
           actions: <Widget>[
             IconButton(
               onPressed: () {
-               Navigator.pushNamed(context, '/');
+               Navigator.pushNamed(context, '/satu');
               },
               icon: const Icon(
                 Icons.person,

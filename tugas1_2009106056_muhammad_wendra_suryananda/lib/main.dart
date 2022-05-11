@@ -1,4 +1,3 @@
-import 'dart:js';
 
 import 'package:flutter/material.dart';
 import 'package:tugas1_2009106056_muhammad_wendra_suryananda/form.dart';
@@ -17,9 +16,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       initialRoute: '/',
       routes: {
-        '/': (context) => const FormPage(),
+        '/': (context) => const Home(),
+        '/satu': (context) => const FormPage(),
       },
-      home: Home(),
     );
   }
 }
