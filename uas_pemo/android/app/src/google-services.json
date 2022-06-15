@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "508741090906",
+    "project_id": "car-show-room---mobile---056",
+    "storage_bucket": "car-show-room---mobile---056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508741090906:android:e3675cfa1a105ef4dee263",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508741090906-beq6rvt322j27h4h6aqbfrrrkeba35v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2kkKqt6j1fiA7_H3UzsF3hvRPgh3mBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508741090906-beq6rvt322j27h4h6aqbfrrrkeba35v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508741090906:android:3dfa149bbfed4759dee263",
+        "android_client_info": {
+          "package_name": "com.wendra.carshowroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508741090906-beq6rvt322j27h4h6aqbfrrrkeba35v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2kkKqt6j1fiA7_H3UzsF3hvRPgh3mBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508741090906-beq6rvt322j27h4h6aqbfrrrkeba35v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
